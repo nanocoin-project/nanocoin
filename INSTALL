@@ -1,0 +1,9 @@
+Building Nanocoin
+
+See doc/readme-qt.rst for instructions on building Nanocoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Nanocoin.
+
+See doc/build-*.txt for instructions on building nanocoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Nanocoin.
